@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streams", "HomeWork11\Streams.csproj", "{365D3F9A-30C2-44B0-B586-0B80355B1C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{A12CEC9B-9B79-4F5E-8043-7CF35C275062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365D3F9A-30C2-44B0-B586-0B80355B1C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365D3F9A-30C2-44B0-B586-0B80355B1C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365D3F9A-30C2-44B0-B586-0B80355B1C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365D3F9A-30C2-44B0-B586-0B80355B1C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12CEC9B-9B79-4F5E-8043-7CF35C275062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12CEC9B-9B79-4F5E-8043-7CF35C275062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12CEC9B-9B79-4F5E-8043-7CF35C275062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12CEC9B-9B79-4F5E-8043-7CF35C275062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B2430C9-054D-4EE8-B4B3-CA794B6E43B7}
+	EndGlobalSection
+EndGlobal
